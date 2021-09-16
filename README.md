@@ -1,3 +1,6 @@
+# Fixed scrollbar issue
+https://github.com/AlexBacich/sticky-headers-table/issues/31
+I initially just edited my plugin file with the fix, but later when I deleted my plugin file to attempt to fix some other plugin download issue I forgot to re-apply the fix, which resulted in me spending a few hours troubleshooting the same issue, hence i forked this fix. NOTE: the code/plugin belongs to their respective owners, I don't own any of the code/fix. 
 # table_sticky_headers
 
 This package for [Flutter](https://flutter.io) allows you to display two-dimension table with both sticky headers.
